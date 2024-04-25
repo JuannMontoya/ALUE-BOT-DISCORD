@@ -1,0 +1,27 @@
+{
+  "name": "alue-bot",
+  "version": "1.0.0",
+  "description": "bot discord music",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuannMontoya/ALUE-BOT-DISCORD.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "Juannmontoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuannMontoya/ALUE-BOT-DISCORD/issues"
+  },
+  "homepage": "https://github.com/JuannMontoya/ALUE-BOT-DISCORD#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
